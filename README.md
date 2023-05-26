@@ -10,24 +10,11 @@ React ⚛️
 CSS 🎨
 HTML 📝
 <h1>SiNestjs<h1>
+hola
+SiNestjs
 
 Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado/a en un campo tan dinámico como el desarrollo web.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h5><h5>
 
 💡Si está buscando un desarrollador comprometido que sea capaz de trabajar en un equipo y apasionado por crear aplicaciones de calidad, ¡no dude en comunicarse conmigo! Estoy emocionado de colaborar en proyectos innovadores y contribuir al éxito de su empresa.
