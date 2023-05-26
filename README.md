@@ -19,6 +19,4 @@ Hola, yo soy Eloy y aquí encontrarás información sobre mí y mis intereses en
 Sin embargo, siempre estoy en constante aprendizaje, explorando nuevas tecnologías y mejorando mis habilidades. Creo firmemente en la importancia de mantenerse actualizado/a en un campo tan dinámico como el desarrollo web.
 <br><br>
 <br><br>
-<br><br>
-<br><br>
 💡Si está buscando un desarrollador comprometido que sea capaz de trabajar en un equipo y apasionado por crear aplicaciones de calidad, ¡no dude en comunicarse conmigo! Estoy emocionado de colaborar en proyectos innovadores y contribuir al éxito de su empresa.
