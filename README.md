@@ -5,6 +5,7 @@ Hola, yo soy Eloy y aquí encontrarás información sobre mí y mis intereses en
 💼 En mi día a día, trabajo con diversas tecnologías, lo que me permite desarrollar proyectos sólidos y escalables. Estas son algunas de las herramientas que forman parte de mi stack actual:
 
 🔽JavaScript 🌐
+
 🔼Redux ⚛️
 <br><br>
 🔽React ⚛️
